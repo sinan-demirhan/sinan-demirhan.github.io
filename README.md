@@ -1,3 +1,3 @@
 # Sinan Demirhan
-To see my portfolio, [click here](https://ryanfitzgerald.github.io/devportfolio/).
+To see my portfolio, [click here](https://sdemirhan1320.github.io/sinan_demirhan/).
 
